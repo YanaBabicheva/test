@@ -57,4 +57,4 @@ button.addEventListener('click', (e) => {
     getInfo()
 });
 
-
+const name= [] ;
